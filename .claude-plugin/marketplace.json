@@ -1,0 +1,14 @@
+{
+  "name": "goalsmith-marketplace",
+  "owner": {
+    "name": "leoawesome"
+  },
+  "plugins": [
+    {
+      "name": "goalsmith",
+      "source": "./plugin",
+      "description": "Turn a one-line brief into a battle-tested /goal completion contract for an unattended multi-hour Claude Code run",
+      "version": "1.0.0"
+    }
+  ]
+}

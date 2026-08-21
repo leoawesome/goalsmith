@@ -1,0 +1,12 @@
+{
+  "name": "goalsmith",
+  "description": "Turn a one-line brief into a battle-tested /goal completion contract for an unattended multi-hour Claude Code run. Researches the subject, interviews you until every pre-run unknown is closed, writes GOAL.md + PLAN.md + verify.sh + JOURNAL.md, stress-tests them with adversarial challengers, then hands off a single paste-ready condition.",
+  "version": "1.0.0",
+  "author": {
+    "name": "leoawesome"
+  },
+  "homepage": "https://github.com/leoawesome/goalsmith",
+  "repository": "https://github.com/leoawesome/goalsmith",
+  "license": "MIT",
+  "keywords": ["skills", "goal", "autonomous", "unattended", "verification", "planning", "long-run"]
+}
