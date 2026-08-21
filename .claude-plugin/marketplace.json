@@ -1,5 +1,6 @@
 {
   "name": "goalsmith-marketplace",
+  "description": "Goalsmith \u2014 writes battle-tested /goal completion contracts for unattended multi-hour Claude Code runs",
   "owner": {
     "name": "leoawesome"
   },
